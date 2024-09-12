@@ -1,5 +1,6 @@
 streamlit
 streamlit_carousel
+--upgrade pip
 numpy
 pandas 
 scikit-learn
