@@ -1,6 +1,6 @@
 streamlit
 streamlit_carousel
---upgrade pip
+pip
 numpy
 pandas 
 scikit-learn
@@ -10,6 +10,5 @@ seaborn
 plotly
 streamlit-pandas-profiling
 ydata-profiling
-pip
 tensorflow
 keras
