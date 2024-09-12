@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.38.0
 streamlit_carousel
 phik==0.12.0
 pip
