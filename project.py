@@ -21,7 +21,6 @@ from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, Dropout, Flatten, Dense
 from keras.utils import to_categorical
 from keras.preprocessing.image import ImageDataGenerator
-import cv2
 from sklearn.utils import shuffle 
 
 # Anna Schäfer 
