@@ -31,7 +31,7 @@ st.caption("This application allows you to upload a dataset (of a specific resol
 st.caption("This App is created by Anna Schäfer.")
 st.caption("Images for design are created by ChatGPT.")
 
-image_path = "Project\ssss.jpeg"
+image_path = "ssss.jpeg"
 image = Image.open(image_path)
 st.image(image)
 
