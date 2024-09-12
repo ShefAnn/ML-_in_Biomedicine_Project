@@ -1,5 +1,6 @@
 streamlit
 streamlit_carousel
+phik==0.12.0
 pip
 numpy
 pandas 
@@ -9,6 +10,6 @@ matplotlib
 seaborn 
 plotly
 streamlit-pandas-profiling
-ydata-profiling
+ydata-profiling==4.2.0
 tensorflow
 keras
