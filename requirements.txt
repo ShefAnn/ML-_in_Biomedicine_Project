@@ -9,4 +9,3 @@ seaborn
 plotly
 streamlit-pandas-profiling
 ydata-profiling
---upgrade pip
