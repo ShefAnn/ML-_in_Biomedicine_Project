@@ -1,0 +1,11 @@
+streamlit
+streamlit_carousel
+numpy
+pandas 
+scikit-learn
+imblearn
+matplotlib
+seaborn 
+plotly
+streamlit-pandas-profiling
+ydata-profiling
