@@ -2,7 +2,7 @@ streamlit
 streamlit_carousel
 phik
 pip
-numpy
+numpy==1.24.3
 pandas 
 scikit-learn
 imblearn
